@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Si no te haz suscrito no se que estás esperando!
 
 You can use the [editor on GitHub](https://github.com/patotato03/patotato.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
